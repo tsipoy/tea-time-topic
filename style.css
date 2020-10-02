@@ -1,0 +1,13 @@
+h1 {
+    padding-block-end: 3rem;
+}
+.wrapper {
+    text-align: center;
+    background-color: aliceblue;
+    max-width: 100%;
+    padding: 2rem;
+}
+
+.add-topic {
+    padding-block-end: 2rem;
+}
