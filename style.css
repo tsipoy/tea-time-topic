@@ -41,8 +41,21 @@ ul {
     background-color: white;
     border-radius: 5px;
     padding: 2rem;
+    position: relative;
 }
 
 li {
     list-style: none;
+}
+
+.archive-btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+span {
+    color: chocolate;
+    font-size: 18px;
+    padding-inline-end: 1rem;
 }
