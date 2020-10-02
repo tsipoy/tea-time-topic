@@ -1,6 +1,3 @@
-h1 {
-    padding-block-end: 3rem;
-}
 .wrapper {
     text-align: center;
     background-color: aliceblue;
@@ -8,6 +5,44 @@ h1 {
     padding: 2rem;
 }
 
+h1 {
+    padding-block-end: 3rem;
+}
+
 .add-topic {
+    background-color: white;
+    padding-block-start: 2rem;
     padding-block-end: 2rem;
+    border-radius: 5px;
+}
+
+#add-new-topic {
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+
+.submit-btn {
+    background-color: gold;
+    border-radius: 5px;
+}
+
+.next-topic{
+    margin-block-start: 3rem;
+    padding: 2rem;
+}
+
+nav {
+    background-color: aliceblue;
+    padding: 2rem;
+    border-radius: 5px;
+}
+
+ul {
+    background-color: white;
+    border-radius: 5px;
+    padding: 2rem;
+}
+
+li {
+    list-style: none;
 }
